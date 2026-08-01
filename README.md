@@ -1,8 +1,11 @@
 # TuringSNN
 
-A spiking neural network cortex, built from first principles in Go, compiled to WebAssembly and running live in-browser with no backend.
+A spiking neural network cortex, built from first principles in Go, compiled to WebAssembly and running live in-browser with no backend. Developed privately since 2002; opened July 2026.
 
 Live demo: [temper.ai/turing/app](https://temper.ai/turing/app), running this cortex engine in-browser. This repository includes only the built-in synthetic pattern generator (`internal/core_logic/sim`) as a sensor input, so it builds and runs standalone with no external dependencies or API keys.
+
+<img width="1570" height="919" alt="image" src="https://github.com/user-attachments/assets/c5fdc646-3cbd-4f86-af2b-9c930f27495b" />
+
 
 ## What's here
 
